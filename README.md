@@ -1,5 +1,5 @@
 # Add Git remote repository on VsCode and Collaborate with team.
---Iniialize Git in VsCode and push our Project on github
+--Initialize Git in VsCode and push your Project on github
 ---------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/8f8ebc5d-a0c2-4e35-bdcd-22196cd9e497)
 
